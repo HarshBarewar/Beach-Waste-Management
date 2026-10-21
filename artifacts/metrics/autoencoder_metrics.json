@@ -1,0 +1,8 @@
+{
+  "calibrated_threshold_mse": 0.02777,
+  "val_mean_reconstruction_error": 0.014612,
+  "test_mean_reconstruction_error": 0.013442,
+  "test_anomalies_detected": 3,
+  "test_samples_total": 84,
+  "interpretation": "Reconstruction error flags non-conforming waste spikes and meteorological outliers."
+}

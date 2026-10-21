@@ -1,0 +1,20 @@
+{
+  "name": "beachwaste-ai",
+  "version": "1.0.0",
+  "description": "Deep Learning-Based Global Beach Waste Prediction, Classification, and Recycling Cost Estimation System",
+  "scripts": {
+    "dev": "python run.py",
+    "start": "python run.py",
+    "build": "cd frontend && npm install && npm run build"
+  },
+  "keywords": [
+    "deep-learning",
+    "fastapi",
+    "react",
+    "waste-management",
+    "time-series-forecasting",
+    "vercel"
+  ],
+  "author": "",
+  "license": "MIT"
+}
