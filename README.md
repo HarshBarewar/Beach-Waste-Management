@@ -253,3 +253,5 @@ tests/test_models.py::test_seasonal_naive_baseline PASSED                [100%]
 
 Developed for academic research and environmental technology demonstration.
 Open source under the MIT License.
+#   B e a c h - W a s t e - M a n a g e m e n t  
+ 
